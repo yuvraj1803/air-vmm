@@ -1,4 +1,4 @@
-TARGET = air-vmm
+TARGET = airvm
 SUBDIRS = core
 ENTITLEMENTS = entitlements.plist
 
